@@ -9,3 +9,5 @@ Será utilizado a linguagem Pyton na matéria de Algoritmos ministrada pelo prof
 - Aula 04: Tipos de dados, variáveis, entrada e saída
 - Aula 05: Estrutura de seleção
 - Aula 06: Estruturas de repetição
+- Aula 07: While 
+- Aula 08: Funções
