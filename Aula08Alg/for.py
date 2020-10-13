@@ -8,5 +8,11 @@ for index in range(1, 101):
 
 # Incrmento e Decremento
 
+frutas = ['Laranja', 'BANANA', 'Uva', 'Pera']
+
+for fruta in frutas:
+    print(fruta)
+
+
 
 

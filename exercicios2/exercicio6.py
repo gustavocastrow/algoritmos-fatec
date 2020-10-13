@@ -3,7 +3,6 @@
 # perguntas e respostas. Animais possíveis: leão, cavalo, homem, macaco, morcego, baleia, avestruz, pinguim, águia
 # tartaruga, crocodilo e cobra
 
-
 mamifero = input("É mamifero?: ")
 if mamifero == "sim":
     quadrupede = input("É quadrupede?: ")
