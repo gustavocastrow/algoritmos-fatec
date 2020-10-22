@@ -1,4 +1,4 @@
-**************** EXERCICIO 31 - PYTHON ****************
+## **************** EXERCICIO 31 - PYTHON ************************
 '''FOI REALIDA UMA PESQUISA SOBRE ALGUMAS CARACTERISTICAS FISICAS DA POPULAÇÃO DE UMA CERTA REGIAO, A QUAL COLETOU OS SEGUINTES DADOS
 REFERENTES A CADA HABITATA PARA ANALISE:
 SEXO ('M' - masculino ou 'F' - Feminino):
@@ -12,4 +12,4 @@ a porcentagem entre os individuos do sexo masculino , cuja idade está entre os 
 a porcentagem do total de individuos do sexo feminino cuja idade entre 18 e 35 anos, inclusive tenham olhos verdes e cabelos loiros
 o final do conjunto de habitantes é roconhecido pelo valor -1l entrando como idade
 '''
-**************EXERCICIO 33 PYTHON **********************
+## **************EXERCICIO 33 PYTHON **********************
