@@ -1,5 +1,4 @@
 # Exercicio 17 PG-64
-
 # Construa um algoritmo que gere os primeiros 20 termos de uma série tal qual a de Fibonacci,
 # mas cujos os 2 primeiros termos sejam fornecidos pelo usuário
 

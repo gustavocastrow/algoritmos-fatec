@@ -1,12 +1,11 @@
-a = int(input('Digite o primeiro numero'))
-b = int(input('Digite o segundo numero'))
+# Exercicio 19 PG-64
+# A conversão de graus para Fahrenheit para centigrados é obtida pela formula C =  5/9(F-32)
+# Escreva um algoritmo que calcule e escreva uma tabela de graus centigrados em função de graus Farenheit
+# que variem de 50 a 150 de 1 em 1
 
-def mdc(a,b):
-    if b == 0:
-        return a
-    return mdc(b, a % b)
+# F -> C
+# C = 5 / 9 ( F - 32)
 
-def mmc(a,b):
-    return abs(a*b) / mdc(a,b)
-
-print("MMC 10 e 5 --> %d" % mmc(a,b))
+for tabela in range(50, 151):
+    celcius = (tabela - 32) * 5 /9
+    print(f'{tabela} F é igual á {celcius:.2f} C')
