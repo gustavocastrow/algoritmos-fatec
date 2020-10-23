@@ -55,7 +55,7 @@ elif elevadorBtotal > elevadorAtotal and elevadorBtotal > elevadorCtotal:
     print(f' o elevador que mais foi utilizado foi o ELEVADOR B  com {elevadorBtotal} total de pessoas usando')
 else:
     print(f' o elevador que mais foi utilizado foi o ELEVADOR C  com {elevadorCtotal} total de pessoas usando')
-# • o período em que utilizava
+## • o período em que utilizava
 periodoTotalMatutino =  elevadorBmatutino + elevadorAmatutino + elevadorCmatutino
 periodoTotalVerpertino = elevadorAvespertino + elevadorBvespertino + elevadorCnoturno
 periodoTotalNoturno = elevadorAnoturno + elevadorBnoturno + elevadorCnoturno
