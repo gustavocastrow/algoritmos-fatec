@@ -1,3 +1,4 @@
+EXERCICIO 33 DO LIVRO
 #Realizou-se uma pesquisa para determinar alguns dados estatísticos em relação ao conjunto de crianças nascidas em um certo
 # periodo de uma determinada maternidade.
 # Construa um algoritmo que leia o
