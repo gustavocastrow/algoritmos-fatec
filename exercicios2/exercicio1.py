@@ -1,6 +1,4 @@
 #Exercicio 7 PG-62
-# Escreva um algoritmo que, a partir de um mês fornecedio (número inteiro de 1 a 12) apresente o nome dele
-# por extenso ou uma mensagem do mês inválido.
 
 mes = int(input("Inform o número do mês: "))
 

@@ -1,9 +1,4 @@
-# Exercicio 24 PG-64
-# Construa um algoritmo que leia um conjunto de dados contendo altura e sexo ('M' para Masculino e 'F' para feminino)
-# de 50 pessoas, e depois calcule e escreva
-# -> A maior e a menor altura do grupo [X]
-# -> A media de altura das mulheres [X]
-# -> O numero de homens e a diferença percentual entre eles e mulheres
+# Exercicio 24 PG-65
 
 mais_alta = 0
 mais_baixa = 0

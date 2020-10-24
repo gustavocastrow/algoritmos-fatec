@@ -1,5 +1,4 @@
-# Exercicio 30 PG-64
-# Calcule o imposto de renda de um grupo de dez contribuientes....
+# Exercicio 30 PG-65
 
 #Salario minimo 2020 -> R$ 1.045
 salario_minimo = float(input('Informe o salário minimo atual: '))

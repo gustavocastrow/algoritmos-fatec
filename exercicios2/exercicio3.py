@@ -1,5 +1,4 @@
 # Exercicio 9 PG-63
-# Escreva o signo do zodíaco correspondente ao dia e mês informado.
 
 dia = int(input("Informe o dia de nascimento: "))
 mes = int(input("Informe o mes de nascimento: "))

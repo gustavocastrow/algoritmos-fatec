@@ -1,8 +1,5 @@
 # Exercicio 18 PG-64
 
-# Construa um algoritmo que, dado o conjunto de valores inteiros positivos, determine qual o menor e maior valor
-# do conjunto. O final do conjunto de valores é conhecido pelo valor -1, que não deve ser considero.
-
 #Utilizando função max e min:
 numbers = [10, 20, 50, 99, 12, 2]
 

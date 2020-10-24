@@ -1,4 +1,5 @@
-#elabore um algoritmo que obtenha o maximo divisor comum entre dois numeros fornecidos.
+# Exercicio 14 PG-64
+
 numero1 = int(input('Digite o numero 1 '))
 numero2 =   int(input('Digite o numero 2 '))
 

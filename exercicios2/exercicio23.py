@@ -1,4 +1,4 @@
-# Exercicio 29 PG-64
+# Exercicio 29 PG-65
 #
 from random import  random
 

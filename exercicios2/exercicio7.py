@@ -1,5 +1,4 @@
-#13. Elabore um algoritmo que obtenha o mínimo múltiplo comum (MMC) entre dois número fornecidos
-
+# Exercicio 13 PG-64
 num1 = int(input("Digite um número inteiro:"))
 num2 = int(input("Digite outro número inteiro:"))
 

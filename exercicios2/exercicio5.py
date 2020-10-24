@@ -1,7 +1,5 @@
 # Exercicio 11 PG-63
-# Construa um algoritmo que seja capaz de dar a classificação olímpica de 3 países informados. Para cada país é
-# informaod o nome, a quantidade de medalhas de ouro, prata e bronze. Considere que cada medalha de ouro tem peso 3
-# cada prata tem peso 2 e cada bronze tem peso
+
 
 pais1 = input("Informe o primeiro país: ")
 pais1_ouro = int(input(f'Informe a quantidade de OURO do(a) {pais1}: '))
