@@ -1,6 +1,4 @@
 # Exercicio 8 PG-63
-# Elabore um algoritmo que, a partir de um dia, mês e ano fornecidos, valide se eles compõem uma data válida.
-# Não deixe de considerar os meses com 30 ou 31 dias, e o tratamento de ano bissexto.
 
 dia = int(input("Informe o dia: "))
 mes = int(input("Informe o mes: "))
