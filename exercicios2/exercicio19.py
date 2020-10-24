@@ -1,5 +1,7 @@
-'''PREPARE UMM ALGORITMO QUE CALCULE O VALOR DE H , SENDO QUE ELE É DETERMINADO
-PELA SERIE H = 1/1 ETC'''
+# Exercicio 25 PG-64
+# Prepare um algoritmo que calcule o valor de H, sendo que ele é determinado pela série
+# H= 1/1 + 3/2 + 5/3 + 7/4 + ... 99/50.
+
 
 h = 1
 n = 2
