@@ -1,20 +1,15 @@
 # Exercicio 23 PG-65
 
-num = int(input("Digite um número: "))
+num1 = int(input("Digite um número: "))
+num2 = int(input("Digite um número: "))
 contador = 0
-
-for i in range(1, num + 1):
-    if num % i == 0:
+primo = 0
+for i in range(num1, num2 + 1):
+    if num1 % i == 0:
         contador += 1
 
-print("O número {} foi divisível {} vezes!".format(num, contador))
+    if num2 % i == 0:
+        contador += 1
 
-if contador == 2:
-    print("O número é primo")
-else:
-    print("O número não é primo")
-
-
-n1 = int(input('Informe o primeiro numero:'))
-n2 = int(input('Informe o segundo número: '))
+print(f'Entre {num1} e {num2} temos {contador} numeros primos.')
 

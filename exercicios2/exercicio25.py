@@ -46,10 +46,6 @@ while idade != -1:
 listaIdade.sort()
 
 print(f' {listaIdade[-1]} idade \n {cabeloPreto} cabelos Pretos \n {cabeloCastanho} cabelos castanhos  \n {cabeloLoiro} Cabelos loiros')
-
-#A maior idade dos habitantes
 print (f'A maior idade dos habitantes foi {listaIdade[-1]} Anos')
-#A porcentagem entre os individuos do sexo masculino , cuja idade está entre os 18 e 35 anos , inclusive
 print (f'  Percentagem de individuos masculino idade entre 18 e 35 foi {((100 * idade18a35homem ) / len(listaIdade)):.2f} % ')
-#B porcentagem do total de individuos do sexo feminino cuja idade entre 18 e 35 anos, inclusive tenham olhos verdes e cabelos loiros
 print(f' Percentagem de indivíduos feminino idade entre 18 e 35 foi {((100* idade18a35mulher) / len(listaIdade)):.2f}')

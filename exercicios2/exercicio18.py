@@ -39,7 +39,6 @@ media_altura_mulheres = altura_mulheres / contador_mulheres
 
 print(f'Número de mulheres: {contador_mulheres}')
 print(f'Numero de homens: {contador_homens}')
-print(f'Diferença percentual entre homens e mulheres:')
 print(f'A média de altura das mulheres é: {media_altura_mulheres:.2f}')
 print(f'A maior altura do grupo é de: {mais_alta:.2f}')
 print(f'A menor altura do grupo é de: {mais_baixa:.2f}')

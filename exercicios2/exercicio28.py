@@ -59,9 +59,9 @@ for espectador in range(1, 100):
     media = total_idade_ruim / ruim
 
 
-print(f'[1] A quantidade de respostas ótimo: {otimo}')
-print(f'[3] A media de idade das pessoas que responderam ruim: {media:.2F}')
-print(f'[4] A porcentagem das respostas pessimo e a maior idade que utilizou essa opcao: {porcentagem_pessimo} %')
-print(f'[5] a diferença de idade entre a maior idade que responde otimo e a maior idade que respondeu ruim: {diferenca_idade}')
+print(f'A quantidade de respostas ótimo: {otimo}')
+print(f'A media de idade das pessoas que responderam ruim: {media:.2F}')
+print(f'A porcentagem das respostas pessimo e a maior idade que utilizou essa opcao: {porcentagem_pessimo} %')
+print(f'A diferença de idade entre a maior idade que responde otimo e a maior idade que respondeu ruim: {diferenca_idade}')
 
 
