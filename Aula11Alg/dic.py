@@ -24,3 +24,5 @@ recipes = requests.get('https://api.punkapi.com/v2/beers')
 json_response = recipes.json()
 print(json.dumps(json_response, indent=4))
 
+#Pip freeze > requiriments.txt
+#pip install -r requirements.txt
