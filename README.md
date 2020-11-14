@@ -11,3 +11,8 @@ Será utilizado a linguagem Pyton na matéria de Algoritmos ministrada pelo prof
 - Aula 06: Estruturas de repetição
 - Aula 07: While 
 - Aula 08: Funções
+- Aula 09: Exercicios Funções
+- Aula 10: Exercicios Funções
+- Aula 11: Consumo API Rest
+- Aula 12: Fluxos de Controle
+- Aula 13: Manipulando arquivos
